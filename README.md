@@ -3,10 +3,19 @@ Translation of the class diagram submitted in the Lab into code. A simple bankin
      
 ## Class Diagram
 ![Class Diagram](img/class_diagram.png) 
-## Requirements
-Java JDK 8 or above
 
-## ⚙️ How to Compile
+## Requirements
+- Java JDK 8 or above
+- Git (to clone the repository)
+
+## How to Get the Project
+- Clone the repository to your local machine using Git
+- Navigate into the project directory:
+```bash
+cd SE_Lab_Class_Diagram_Coding
+```
+
+## How to Compile
 Open terminal in the **SE_Lab_Class_Diagram_Coding/** directory and run:
 ```bash
 javac src/*.java
