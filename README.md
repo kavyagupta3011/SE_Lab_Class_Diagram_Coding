@@ -31,3 +31,7 @@ The demo (**Main.java**) performs the following:
 - Deletes an account and a branch
 - All logs are printed to the terminal
 
+## Output
+Here are sample outputs of the program: 
+![Output 1](img/output1.png) 
+![Output 2](img/output2.png)
